@@ -13,3 +13,17 @@ The Jaimla project works in tandem with Faicey, the face of AI, project design g
 A primary goal of the Jaimla project, and by extension, the Luvai project, is to develop a local language model capable of running on handheld devices. This objective involves implementing text, voice, and image recognition capabilities, allowing the machine learning agent to operate effectively without relying on external servers or resources.
 
 By combining the efforts of the Jaimla project and its associated technologies, the Luvai project aims to create a powerful and adaptable machine learning agent. This agent will understand and process information from different modalities, interact with users through multiple interfaces, with design goals of running efficiently on handheld devices. The culmination of these initatiaves creates the Luvai project, striving to decentralize AI/ML while driving cryptocurrency adoption forward in a user-friendly and impactful manner.
+
+
+Luvai will be released as a working model. The following list of links is provided for reference to the overall project goals and vision.
+
+https://github.com/Jaimla<br />
+https://github.com/Faicey<br />
+https://github.com/AUTOMINDx<br />
+https://github.com/mlodels<br />
+https://github.com/mlodular<br />
+
+https://twitter.com/shambaluv<br />
+https://twitter.com/shambaluvai<br />
+
+
